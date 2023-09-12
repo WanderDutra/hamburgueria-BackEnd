@@ -1,0 +1,19 @@
+{
+  "name": "hamburgueria",
+  "version": "1.0.0",
+  "description": "criar rotas para pedidos de uma hamburgueria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon"
+  },
+  "author": "Wander Dutra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
